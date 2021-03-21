@@ -80,7 +80,7 @@ theme: Sakura
 deploy:
   type: git
   repository: https://github.com/yarbei/yarbei.github.io.git
-  branch: master
+  branch: main
 
 # backup
 backup:
