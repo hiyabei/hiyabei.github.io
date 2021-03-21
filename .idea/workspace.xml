@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d3e3320-3ce0-4054-beb9-54932efda145" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/Sakura/source/images/contact/wechatcode.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Sakura/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/themes/Sakura/_config.yml" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1q31l87P2XXSTQYz37CBUQYi22g" />
   <component name="ProjectViewState">
@@ -56,6 +60,8 @@
       <updated>1616293608107</updated>
       <workItem from="1616293612229" duration="5140000" />
       <workItem from="1616313859287" duration="2438000" />
+      <workItem from="1616316983141" duration="189000" />
+      <workItem from="1616317175933" duration="9269000" />
     </task>
     <servers />
   </component>
@@ -72,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
