@@ -4,8 +4,8 @@ siteName: 亚北
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /images/avatar.png
-url: https://wyabei.com
-description:
+url: https://yarbei.com
+#description: 永远年轻，永远热泪盈眶。
 #cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
 pjax: 1
 # 1开启
@@ -55,7 +55,7 @@ bgclass: filter-dot
 
 # startdash url, title, desc img
 startdash:
-  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /images/cover/(2).jpg.webp }
+  - {url: /electron/, title: Sakura, desc: electron, img: /images/cover/(2).jpg.webp }
   - {url: http://github.com/yarbei, title: github, desc: 博主的github, img: /images/cover/(7).jpg.webp }
   - {url: /, title: 亚北, desc: , img: /images/cover/(6).jpg.webp}
 

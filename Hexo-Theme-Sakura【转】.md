@@ -1,10 +1,10 @@
 ---
 title: Hexo-Theme-Sakura
-author: hojun
+author: yarbei
 avatar: /images/avatar.png
-authorLink: hojun.cn
-authorAbout: 一个好奇的人
-authorDesc: 一个好奇的人
+authorLink: yarbei.com
+authorAbout: 
+authorDesc: 
 categories: 技术
 date: 2018-12-12 22:16:01
 comments: true
@@ -24,12 +24,6 @@ hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-
 正在开发中......
 
 ![](https://wx3.sinaimg.cn/large/006bYVyvly1g069tuf42oj312w0m8ndq.jpg)
-
-## 交流群
-若你是使用者，加群QQ: 801511924
-
-若你是创作者，加群QQ: 194472590
-
 
 ## 主题特性
 
@@ -111,7 +105,7 @@ favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
 
 # 站点url 【改】
-url: https://sakura.hojun.cn
+url: https://yarbei.com
 
 # 站点介绍（或者说是个人签名）【改】
 description: Live your life with passion! With some drive!
